@@ -1,6 +1,6 @@
 #!/bin/bash
 # staging exercise with jenkins
-
+# updated by Zakaria on 9 dec 2022
 mkdir staging
 mkdir staging/templates
 mkdir staging/static
